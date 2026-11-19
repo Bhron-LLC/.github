@@ -15,6 +15,10 @@ Bhron is the independent software studio of [Samir A Nader](https://bhron.org/ab
     <td width="78" align="center"><a href="https://github.com/Bhron-LLC/Handy/tree/feat/local-text-formatting"><img src="assets/handy.png" width="52" height="52" alt="Handy icon"></a></td>
     <td><strong><a href="https://github.com/Bhron-LLC/Handy/tree/feat/local-text-formatting">Handy · Bhron fork</a></strong><br>Offline dictation with spoken punctuation, optional capitalization, and numbers as digits. Based on <a href="https://github.com/cjpais/Handy">cjpais/Handy</a>.<br><a href="https://bhron.org/handy/">See what Bhron added</a> · <a href="https://github.com/Bhron-LLC/Handy/tree/feat/local-text-formatting">Formatting branch</a></td>
   </tr>
+  <tr>
+    <td width="78" align="center"><a href="https://github.com/Bhron-LLC/alfred-apple-passwords-apw"><img src="assets/alfred-apw.png" width="52" height="52" alt="Apple Passwords for Alfred icon"></a></td>
+    <td><strong><a href="https://github.com/Bhron-LLC/alfred-apple-passwords-apw">Apple Passwords for Alfred</a></strong><br>Search your Apple Passwords logins and 2FA codes from Alfred and copy or paste them into any app. Built on <a href="https://github.com/bendews/apw">apw</a>.<br><a href="https://github.com/Bhron-LLC/alfred-apple-passwords-apw/blob/main/Apple-Passwords-apw-community.alfredworkflow">Download the workflow</a> · <a href="https://bhron.org/productivity/#shelf">More Mac apps we vouch for</a></td>
+  </tr>
 </table>
 
 ## More from Bhron
