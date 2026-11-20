@@ -23,7 +23,13 @@ Bhron is the independent software studio of [Samir A Nader](https://bhron.org/ab
     <td width="78" align="center"><a href="https://github.com/Bhron-LLC/alfred-direct-unit-converter"><b>37°C<br>→ °F</b></a></td>
     <td><strong><a href="https://github.com/Bhron-LLC/alfred-direct-unit-converter">Unit Converter: Direct Search for Alfred</a></strong><br>Type conversions like <code>37 c to f</code> or <code>10 km to miles</code> straight into Alfred, with no keyword. A companion to Alfred's official Unit Converter.<br><a href="https://github.com/Bhron-LLC/alfred-direct-unit-converter/raw/refs/heads/main/Unit-Converter-Direct-Search.alfredworkflow">Download the workflow</a> · <a href="https://bhron.org/productivity/#shelf">More Mac apps we vouch for</a></td>
   </tr>
+  <tr>
+    <td width="78" align="center"><a href="https://github.com/Bhron-LLC/alfred-hotcorner-toggle"><b>◳</b></a></td>
+    <td><strong><a href="https://github.com/Bhron-LLC/alfred-hotcorner-toggle">Hot Corner toggle for Alfred</a></strong><br>Type <code>hotcorner</code> to switch the top-right Notification Center corner on or off.<br><a href="https://github.com/Bhron-LLC/alfred-hotcorner-toggle/raw/refs/heads/main/Toggle-Notification-Center-Hot-Corner.alfredworkflow">Download the workflow</a> · <a href="https://bhron.org/productivity/#shelf">More Mac apps we vouch for</a></td>
+  </tr>
 </table>
+
+Bhron's Alfred workflows are open source under the MIT License, and the Handy fork keeps Handy's MIT License. ScreenFry's code is public but all rights are reserved. Details, credits and legal terms: [bhron.org/open-source](https://bhron.org/open-source/).
 
 ## More from Bhron
 
